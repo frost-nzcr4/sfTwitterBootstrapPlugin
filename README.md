@@ -49,7 +49,7 @@ default:
   stylesheets:
     - /sfTwitterBootstrapPlugin/bootstrap/docs/assets/css/bootstrap.css # compiled css are now in the docs
     - /sfTwitterBootstrapPlugin/css/style.css
-    - /sfTwitterBootstrapPlugin/css/jquery-ui-1.9.2.custom.min.css # For date pickers ...
+    - /sfTwitterBootstrapPlugin/css/jquery-ui-1.10.2.custom.min.css # For date pickers ...
     - main.css
 
   javascripts:
@@ -63,7 +63,7 @@ default:
     - "/sfTwitterBootstrapPlugin/js/bootbox/bootbox.min.js"
     - "/sfTwitterBootstrapPlugin/js/google-code-prettify/prettify.js"
     - "/sfTwitterBootstrapPlugin/js/jquery.tablesorter.min.js"
-    - "/sfTwitterBootstrapPlugin/js/jquery-ui-1.10.2.custom.min.js" # For date pickers ...
+    - "/sfTwitterBootstrapPlugin/js/jquery-ui-1.10.3.custom.min.js" # For date pickers ...
 
 
   layout:         %SF_PLUGINS_DIR%/sfTwitterBootstrapPlugin/templates/layout

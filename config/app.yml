@@ -2,7 +2,7 @@ all:
   sf_twitter_bootstrap:
     web_dir:                      /sfTwitterBootstrapPlugin
     image_dir:                    /sfTwitterBootstrapPlugin/images/
-    default_image:                config.png
+    default_image:                gears.png
     dashboard_url:                @homepage
     resize_mode:                  thumbnail
     site:                         My Site Name
