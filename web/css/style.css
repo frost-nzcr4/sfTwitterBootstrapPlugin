@@ -37,7 +37,6 @@ h6, .h6 { color: #404040; }
 .fLeft { float:left; }
 .fRight { float:right; }
 .center { text-align:center; }
-.input-obligation { font-weight:bold; }
 .input-obligation > span { color:red; }
 
 /* Clearfix */
